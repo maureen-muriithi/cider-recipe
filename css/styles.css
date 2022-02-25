@@ -6,3 +6,6 @@
 body {
   background-image: url(images/pinkish-background.jpg);
 }
+img {
+  float: right;
+}
